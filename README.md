@@ -16,8 +16,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Статистика GitHub
-![Статистика Argxment](https://github-readme-stats.vercel.app/api?username=Argxment&show_icons=true&theme=radical)
+### Моя активность
+![Статистика Argxment](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argxment&theme=radical)
+
+### Топ языков
+![Языки Argxment](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Argxment&theme=radical)
 
 <!--
 **Argxment/Argxment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
